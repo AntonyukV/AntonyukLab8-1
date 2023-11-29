@@ -1,0 +1,14 @@
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\bin\Debug\net6.0\AntonyukLab8-1.exe
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\bin\Debug\net6.0\AntonyukLab8-1.deps.json
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\bin\Debug\net6.0\AntonyukLab8-1.runtimeconfig.json
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\bin\Debug\net6.0\AntonyukLab8-1.dll
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\bin\Debug\net6.0\AntonyukLab8-1.pdb
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.AssemblyInfoInputs.cache
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.AssemblyInfo.cs
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.csproj.CoreCompileInputs.cache
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.dll
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\refint\AntonyukLab8-1.dll
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.pdb
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\AntonyukLab8-1.genruntimeconfig.cache
+C:\Program Files\Visual Studio\AntonyukLab8-1\AntonyukLab8-1\obj\Debug\net6.0\ref\AntonyukLab8-1.dll
